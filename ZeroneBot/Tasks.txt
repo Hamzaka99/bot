@@ -1,0 +1,11 @@
+*
+- Click on up arrow
+- Click on hero image
+- Click on send to work (all)
+- Close tab
+- Click on down arrow
+
+*loop for 1h
+- Wait for 5min
+- Click on up arrow
+- Click on down arrow
